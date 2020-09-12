@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch front-end",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:3000/home",
+      "webRoot": "${workspaceRoot}",
+      "preLaunchTask": "npm: start"
+    }
+  ]
+}

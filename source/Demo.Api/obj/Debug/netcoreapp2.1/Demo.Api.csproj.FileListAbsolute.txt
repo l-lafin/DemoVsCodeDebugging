@@ -1,0 +1,14 @@
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\obj\Debug\netcoreapp2.1\Demo.Api.csprojAssemblyReference.cache
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\obj\Debug\netcoreapp2.1\Demo.Api.csproj.CoreCompileInputs.cache
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\obj\Debug\netcoreapp2.1\Demo.Api.RazorAssemblyInfo.cache
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\obj\Debug\netcoreapp2.1\Demo.Api.RazorAssemblyInfo.cs
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\obj\Debug\netcoreapp2.1\Demo.Api.AssemblyInfoInputs.cache
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\obj\Debug\netcoreapp2.1\Demo.Api.AssemblyInfo.cs
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\bin\Debug\netcoreapp2.1\Demo.Api.deps.json
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\bin\Debug\netcoreapp2.1\Demo.Api.runtimeconfig.json
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\bin\Debug\netcoreapp2.1\Demo.Api.runtimeconfig.dev.json
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\bin\Debug\netcoreapp2.1\Demo.Api.dll
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\bin\Debug\netcoreapp2.1\Demo.Api.pdb
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\obj\Debug\netcoreapp2.1\Demo.Api.RazorTargetAssemblyInfo.cache
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\obj\Debug\netcoreapp2.1\Demo.Api.dll
+C:\ISCV\DemoVsCodeDebugging\source\Demo.Api\obj\Debug\netcoreapp2.1\Demo.Api.pdb
